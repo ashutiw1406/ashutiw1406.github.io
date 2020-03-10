@@ -1,0 +1,45 @@
+body {
+    background-color: cyan;
+}
+
+hr {
+    color: darkgoldenrod;
+    background-color: dodgerblue;
+    height: 3;
+}
+
+.text1 {
+    text-align: left;
+    color: slategrey;
+}
+
+.head {
+    text-align: center;
+    color: darkslategray;
+}
+
+a:link {
+    color: blueviolet;
+}
+
+a:visited {
+    color: blueviolet;
+}
+
+a:hover {
+    color: navy;
+}
+
+a:active {
+    color: orchid;
+}
+
+.nav {
+    color: snow;
+    text-align: center;
+}
+
+.img1 {
+    width: auto;
+    height: auto;
+}
